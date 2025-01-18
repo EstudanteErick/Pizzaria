@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    position: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #DF2C01;
+}
+
+img {
+    max-width: 300px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h1#m {
+    text-align: center;
+}
+
+#a h3 {
+    display: inline-block;
+    text-align: center;
+    margin: 0px auto;
+    top: -17px;
+    position: relative;
+    font-size: 23px;
+}
+
+#b h3 {
+    display: inline-block;
+    text-align: center;
+    margin: 0px auto;
+    top: -17px;
+    position: relative;
+    font-size: 23px;
+}
+
+#c h3 {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+    top: -17px;
+    position: relative;
+    font-size: 23px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 59px;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    margin-top: 28px;
+}
+
+p {
+    text-align: center;
+}
+
+header {
+    background-color: #B82400;
+    padding: 19px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+header > nav > a {
+    text-decoration: none;
+    color: white;
+}
+
+header#h {
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 18px;
+    box-shadow: 1px 7px 5px rgba(0, 0, 0, 0.678);
+}
+
+header#a {
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    box-shadow: 1px 7px 11px rgba(0, 0, 0, 0.678);
+}
+
+header#b {
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    margin-top: 37px;
+    box-shadow: 1px 7px 11px rgba(0, 0, 0, 0.678);
+}
+
+header#c {
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    margin-top: 37px;
+    box-shadow: 1px 7px 11px rgba(0, 0, 0, 0.678);
+}
+
+#a p {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 19px;
+  }
+
+#b p {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 19px;
+}
+
+#c p {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 19px;
+}
+
+button {
+    color: black;
+}
+
+
+
+
