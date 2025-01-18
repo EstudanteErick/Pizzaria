@@ -14,21 +14,25 @@ img {
     max-width: 300px;
 }
 
-img#j {
-    margin-left: 6px;
-}
+#j {
+    display: block; /* Transforma a imagem em um bloco para que o margin funcione */
+    margin: 0 auto; /* Aplica margens automáticas para centralizar horizontalmente */
+  }
 
-img#k {
-    margin-left: -1px;
-}
+#k {
+    display: block; /* Transforma a imagem em um bloco para que o margin funcione */
+    margin: 0 auto; /* Aplica margens automáticas para centralizar horizontalmente */
+  }
 
-img#l {
-    margin-left: -1px;
-}
+  #l {
+    display: block; /* Transforma a imagem em um bloco para que o margin funcione */
+    margin: 0 auto; /* Aplica margens automáticas para centralizar horizontalmente */
+  }
 
-img#ç {
-    margin-left: -1px;
-}
+  #ç {
+    display: block; /* Transforma a imagem em um bloco para que o margin funcione */
+    margin: 0 auto; /* Aplica margens automáticas para centralizar horizontalmente */
+  }
 
 h1 {
     text-align: center;
